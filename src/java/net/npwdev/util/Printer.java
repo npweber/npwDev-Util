@@ -1,10 +1,10 @@
-package tech.npwd.roots;
+package net.npwdev.util;
 
 //Printer: Printing Utility
 
 public class Printer {
 
-    private static String prefix = "[ROOTS]: ";
+    private static String prefix = "[UTIL]: ";
     private final static String errorSuffix = "[ERROR]: ";
     private final String output;
     private final boolean enter;
@@ -66,5 +66,5 @@ public class Printer {
     }
 
     //Set Custom Prefix
-    public static void setCustomPrefix(String customPrefix){ prefix = prefix.replace("ROOTS", customPrefix); }
+    public static void setCustomPrefix(String customPrefix){ prefix = prefix.replace("UTIL", customPrefix); }
 }

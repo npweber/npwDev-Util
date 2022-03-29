@@ -1,8 +1,8 @@
-package tech.npwd.roots;
+package net.npwdev.util;
 
 import java.util.Scanner;
 
-import static tech.npwd.roots.Printer.print;
+import static net.npwdev.util.Printer.print;
 
 //Inputter: Takes input from a keyboard
 

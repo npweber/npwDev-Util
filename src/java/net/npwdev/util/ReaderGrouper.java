@@ -1,4 +1,4 @@
-package tech.npwd.roots;
+package net.npwdev.util;
 
 //ReaderGrouper: Specialized Reader that Reads a File into a Grouper<String>
 

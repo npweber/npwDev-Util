@@ -1,4 +1,4 @@
-package tech.npwd.roots;
+package net.npwdev.util;
 
 //Sleeper: Utility sleep command
 
