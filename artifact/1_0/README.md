@@ -5,12 +5,3 @@
     2. Printer: Quick Logging 
     3. Reader: Bundled Reading Functionality
     4. Writer: Bundled Writing Functionality
-    
- ## **Author**
-Nathan Weber
-
-**GitHub** [@npweber](https://github.com/npweber/)
-
-***Many thanks!***
-
-

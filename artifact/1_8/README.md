@@ -2,10 +2,3 @@
 
 Changes:
 - Established new package protocol and naming to project tech.npwd.roots --> net.npwdev.util, ApeRoots --> npwDev Util
-
-## **Author**
-Nathan Weber
-
-**GitHub** [@npweber](https://github.com/npweber/)
-
-***Many thanks!***
