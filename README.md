@@ -1,4 +1,4 @@
-﻿# npwDev Util
+﻿# [ARCHIVE] npwDev Util
 
 A utility library constructing a basis for development across all projects. Acting as such, it simplifies mundane processes requiring repetitive code. It consists of utility classes. For example, "Writer.java" writes a given line or input stream to a file given, among various other utility bits of fundamental Java code.
 
